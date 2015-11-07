@@ -1,0 +1,92 @@
+/* Imports */
+@import url("https://nightbloo.github.io/dubtrack/dubtrack.css");
+@import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
+@import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
+
+
+/* Maskinen Chat Color */
+#chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe.activity-row .text p a.username:visited{
+  color: #CC3399 !important; }
+
+/* Bottom bar transparency and fix */
+#player-controller .left {
+  background: rgba(0,0,0,0.5) !important;
+  border-radius: 0px !important; }
+#player-controller .right {
+  background: rgba(0,0,0,0.5) !important;
+  border-radius: 0px !important; }
+#player-controller {
+  border-radius: 0px !important;
+  background: rgba(0,0,0,0.5) !important; }
+
+/* Remove rounded edges on headerbar */
+#header-global {
+  border-radius: 0px !important; }
+
+/* Player fixes */
+#main_player {
+  background-color: rgba(0,0,0,0.9);
+  margin-top:2px; }
+
+/* Chat fixes */
+#main-room .right_section {
+  background-color: rgba(0,0,0,0.9);
+  border-left: 1px solid black !important; }
+.backstretch {
+  visibility:hidden; }
+#user_popover {
+  left:1167px !important; }
+#chat .chat-container .chat-messages .chat-main li .stream-item-content .image_row {
+  border-radius: 5px !important; }
+.right_section {
+  margin-top:2px; }
+
+/* Better chat row for pic after name */
+#chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p { 
+  width: 240px;  }
+
+/* Video next to chat */
+#main-room .left_section { left: initial; right: 450px; }
+#main-room .left_section #main_player { border-radius: 0; border-bottom-left-radius: 1rem; }
+
+/* Miscellaneous */
+/* Background Fix */
+.medium { top: 57.6px !important; }
+
+/* Loading, promote/demote and song skips in chat not so similar to user /me's */
+#chat .chat-main .system, #chat .chat-main .chat-system-loading { text-align: center; color: #0090CC !important; }
+
+/* Welcome message in white */
+#chat .chat-container .chat-messages .chat-main li.chat-welcome-message { color: white !important; }
+
+/* Agressive errors in chat */
+#chat .chat-container .chat-messages .chat-main li.system-error { text-transform: uppercase; }
+
+/* Scrollbars more visible */
+.ps-container .ps-scrollbar-x, .ps-container .ps-scrollbar-y, .ps-container .ps-scrollbar-x-rail:hover .ps-scrollbar-x, .ps-container .ps-scrollbar-y-rail:hover .ps-scrollbar-y { background-color: #B1B1B1 } 
+
+/* Chat split chat transparency remove */
+.chat-main li:nth-child(even) {
+    background: rgba(0, 0, 0,0.0) !important;
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.0) !important; }
+
+/* Pic after name in chat */
+#chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row , #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe.activity-row{
+  background-image:url("http://i.imgur.com/LheImT5.png");
+  background-position: right;
+  background-repeat:no-repeat; }
+
+/* Netuxx Chat Color */
+#chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0 .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0 .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0.activity-row .text p a.username:visited{
+  color: #CCCC00 !important; }
+
+/* Chat Badge */
+#chat li.user-5607ef7e424a6203007d4fbe p a.username::before{
+  content: url("http://i.imgur.com/okNnPvs.png") !important;
+  margin-right: 3px; }
+
+/* Miscellaneous */
+.durationRemaining { margin: 6px 4px 4px 4px !important; } /* Time until booth Fix */
+.ytp-watermark { display: none !important; } /* Hide Youtube Watermark */
+.html5-video-content .video-annotations { display: none !important; } /* Hide annotations */
+.ps-container .ps-scrollbar-x, .ps-container .ps-scrollbar-y, .ps-container .ps-scrollbar-x-rail:hover .ps-scrollbar-x, .ps-container .ps-scrollbar-y-rail:hover .ps-scrollbar-y { background-color: #B1B1B1 } /* Chat scrollbar more visible */
