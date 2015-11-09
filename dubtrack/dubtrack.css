@@ -3,115 +3,162 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
-/* Maskinen Chat Color */
-#chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe.activity-row .text p a.username:visited{
-  color: #CC3399 !important; }
-
-/* Netuxx Chat Color */
-#chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0 .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0 .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0.activity-row .text p a.username:visited{
-  color: #CCCC00 !important; }  
-
 /* Bottom bar transparency and fix */
 #player-controller .left {
   background: rgba(0,0,0,0.5) !important;
-  border-radius: 0px !important; }
+  border-radius: 0px !important; 
+}
+
 #player-controller .right {
   background: rgba(0,0,0,0.0) !important;
-  border-radius: 0px !important; }
+  border-radius: 0px !important;
+}
+
 #player-controller {
   border-radius: 0px !important;
-  background: rgba(0,0,0,0.5) !important; }
+  background: rgba(0,0,0,0.5) !important; 
+}
 
 /* Remove rounded edges on headerbar */
 #header-global {
   border-radius: 0px !important;
-  background-color: rgba(0,0,0,0.75); }
+  background-color: rgba(0,0,0,0.75); 
+}
 
 /* Player fixes */
 #main_player {
   background-color: rgba(0,0,0,0.75);
-  margin-top:2px;}
+  margin-top:2px;
+}
+
 #main_player .player_header span {
   background: rgba(0,0,0,0.75) !important;
   color: #FFFFFF !important;
   opacity: 1;
   border-radius: 0px;
   width: 78.2031px;
-  margin: 0px; }
+  margin: 0px; 
+}
+
 #main_player .player_header span.active {
   background: rgba(255,255,255,255.75) !important;
   color: #000000 !important;
   opacity: 1;
   border-radius: 0px;
   width: 78.2031px;
-  margin: 0px; }
+  margin: 0px; 
+}
+
 #main_player .play-song-link i {
-  color: #FFFFFF; }
+  color: #FFFFFF; 
+}
+
 #main_player .play-song-link .queue-info {
-  background: #FFFFFF; }
+  background: #FFFFFF; 
+}
+
 #main_player .play-song-link {
   background: rgba(0,0,0,0.75) !important;
-  border-radius:0px; }
+  border-radius:0px; 
+}
+
 #main-room .left_section #main_player .play-song-link {
-  padding: 13px 1.5rem; }
+  padding: 13px 1.5rem; 
+}
 
 /* Chat fixes */
 #main-room .right_section {
   background-color: rgba(0,0,0,0.75);
-  border-left: 0px solid black !important; }
+  border-left: 0px solid black !important; 
+}
+
 .backstretch {
-  visibility:hidden; }
+  visibility:hidden; 
+}
+
 #user_popover {
-  left:1167px !important; }
+  left:1167px !important;
+}
+
 #chat .chat-container .chat-messages .chat-main li .stream-item-content .image_row {
-  border-radius: 5px !important; }
+  border-radius: 5px !important; 
+}
+
 .right_section {
   margin-top:2px;
-  height: 841px; }
+  height: 841px; 
+}
+
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p { 
-  width: 240px;  }
+  width: 240px; 
+}
 
 /* Video next to chat */
-#main-room .left_section { left: initial; right: 450px; }
-#main-room .left_section #main_player { border-radius: 0; border-bottom-left-radius: 1rem; }
+#main-room .left_section { left: initial; right: 450px; 
+}
+
+#main-room .left_section #main_player { border-radius: 0; border-bottom-left-radius: 1rem;
+}
 
 /* Miscellaneous */
-/* Background Fix
-.medium { top: 57.6px !important; }
 
 /* Loading, promote/demote and song skips in chat not so similar to user /me's */
-#chat .chat-main .system, #chat .chat-main .chat-system-loading { text-align: center; color: #0090CC !important; }
+#chat .chat-main .system, #chat .chat-main .chat-system-loading { 
+  text-align: center; color: #0090CC !important; 
+}
 
 /* Welcome message in white */
-#chat .chat-container .chat-messages .chat-main li.chat-welcome-message { color: white !important; }
+#chat .chat-container .chat-messages .chat-main li.chat-welcome-message { 
+  color: white !important; 
+}
 
 /* Agressive errors in chat */
-#chat .chat-container .chat-messages .chat-main li.system-error { text-transform: uppercase; }
+#chat .chat-container .chat-messages .chat-main li.system-error { 
+  text-transform: uppercase; 
+}
 
 /* Scrollbars more visible */
-.ps-container .ps-scrollbar-x, .ps-container .ps-scrollbar-y, .ps-container .ps-scrollbar-x-rail:hover .ps-scrollbar-x, .ps-container .ps-scrollbar-y-rail:hover .ps-scrollbar-y { background-color: #B1B1B1 } 
+.ps-container .ps-scrollbar-x, .ps-container .ps-scrollbar-y, .ps-container .ps-scrollbar-x-rail:hover .ps-scrollbar-x, .ps-container .ps-scrollbar-y-rail:hover .ps-scrollbar-y { 
+  background-color: #B1B1B1 
+} 
 
 /* Chat split chat transparency remove */
 .chat-main li:nth-child(even) {
     background: rgba(0, 0, 0,0.0) !important;
-    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.0) !important; }
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.0) !important; 
+}
 
 /* Pic after name in chat */
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row , #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe.activity-row{
   background-image:url("http://i.imgur.com/LheImT5.png");
   background-position: right;
-  background-repeat:no-repeat; }
+  background-repeat:no-repeat; 
+}
 
 /* Chat Badge */
-#chat li.user-5607ef7e424a6203007d4fbe p a.username::before{
+#chat li.user-5607ef7e424a6203007d4fbe p a.username::before {
   content: url("http://i.imgur.com/okNnPvs.png") !important;
-  margin-right: 3px; }
+  margin-right: 3px; 
+}
+
+/* Maskinen Chat Color */
+#chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe.activity-row .text p a.username:visited{
+  color: #CC3399 !important;
+}
+
+/* Netuxx Chat Color */
+#chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0 .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0 .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0.activity-row .text p a.username:visited{
+  color: #CCCC00 !important;
+}  
 
 /* Time until booth Fix */
-.durationRemaining { margin: 6px 4px 4px 4px !important; }
+.durationRemaining { margin: 6px 4px 4px 4px !important; 
+}
  
  /* Hide Youtube Watermark */
-.ytp-watermark { display: none !important; }
+.ytp-watermark { display: none !important; 
+}
 
  /* Hide annotations */
-.html5-video-content .video-annotations { display: none !important; }
+.html5-video-content .video-annotations { display: none !important; 
+}
