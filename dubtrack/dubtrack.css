@@ -88,7 +88,7 @@
   margin-top:2px;
   height: 841px; 
 }
-
+/*
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p { 
   width: 240px; 
 }
@@ -124,11 +124,11 @@
 
 /* Chat split chat transparency remove */
 .chat-main li:nth-child(even) {
-    background: rgba(0, 0, 0,0.0) !important;
-    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.0) !important; 
+    background: rgba(0, 0, 0,0.3) !important;
+    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.3) !important; 
 }
 
-/* Pic after name in chat */
+/* Pic after name in chat
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row , #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe.activity-row{
   background-image:url("http://i.imgur.com/LheImT5.png");
   background-position: right;
