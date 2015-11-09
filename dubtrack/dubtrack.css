@@ -14,28 +14,28 @@
 
 /* Bottom bar transparency and fix */
 #player-controller .left {
-  background: rgba(0,0,0,0.5) !important;
+  background: rgba(0,0,0,0.7) !important;
   border-radius: 0px !important; }
 #player-controller .right {
-  background: rgba(0,0,0,0.5) !important;
+  background: rgba(0,0,0,0.7) !important;
   border-radius: 0px !important; }
 #player-controller {
   border-radius: 0px !important;
-  background: rgba(0,0,0,0.5) !important; }
+  background: rgba(0,0,0,0.7) !important; }
 
 /* Remove rounded edges on headerbar */
 #header-global {
   border-radius: 0px !important;
-  background-color: rgba(0,0,0,0.5); }
+  background-color: rgba(0,0,0,0.7); }
 
 /* Player fixes */
 #main_player {
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.7);
   margin-top:2px; }
 
 /* Chat fixes */
 #main-room .right_section {
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.7);
   border-left: 1px solid black !important; }
 .backstretch {
   visibility:hidden; }
