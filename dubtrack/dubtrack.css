@@ -34,11 +34,13 @@
 #main_player .player_header span {
   background: #000000 !important;
   color: #FFFFFF !important;
-  opacity: 1; }
+  opacity: 1;
+  border-radius: 0px; }
 #main_player .player_header span.active {
   background: #FFFFFF !important;
   color: #000000 !important;
-  opacity: 1; }
+  opacity: 1;
+  border-radius: 0px; }
 #main_player .play-song-link i {
   color: #FFFFFF; }
 #main_player .play-song-link .queue-info {
