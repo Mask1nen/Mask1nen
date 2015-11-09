@@ -66,7 +66,8 @@
 #chat .chat-container .chat-messages .chat-main li .stream-item-content .image_row {
   border-radius: 5px !important; }
 .right_section {
-  margin-top:2px; }
+  margin-top:2px;
+  height: 582px; }
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p { 
   width: 240px;  }
 
