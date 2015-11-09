@@ -30,12 +30,12 @@
 
 /* Player fixes */
 #main_player {
-  background-color: rgba(0,0,0,0.9);
+  background-color: rgba(0,0,0,0.5);
   margin-top:2px; }
 
 /* Chat fixes */
 #main-room .right_section {
-  background-color: rgba(0,0,0,0.9);
+  background-color: rgba(0,0,0,0.5);
   border-left: 1px solid black !important; }
 .backstretch {
   visibility:hidden; }
