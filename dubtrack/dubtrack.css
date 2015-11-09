@@ -26,16 +26,16 @@
 /* Remove rounded edges on headerbar */
 #header-global {
   border-radius: 0px !important;
-  background-color: rgba(0,0,0,0.8); }
+  background-color: rgba(0,0,0,0.75); }
 
 /* Player fixes */
 #main_player {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.75);
   margin-top:2px; }
 
 /* Chat fixes */
 #main-room .right_section {
-  background-color: rgba(0,0,0,0.8);
+  background-color: rgba(0,0,0,0.75);
   border-left: 0px solid black !important; }
 .backstretch {
   visibility:hidden; }
