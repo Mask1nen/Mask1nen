@@ -50,7 +50,9 @@
 #main_player .play-song-link .queue-info {
   background: #FFFFFF; }
 #main_player .play-song-link {
-  background: #000000 !important; }
+  background: #000000 !important;
+  margin:0px;
+  border-radius:0px; }
 
 /* Chat fixes */
 #main-room .right_section {
