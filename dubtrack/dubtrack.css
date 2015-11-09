@@ -3,7 +3,6 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
-
 /* Maskinen Chat Color */
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe.activity-row .text p a.username:visited{
   color: #CC3399 !important; }
@@ -38,6 +37,13 @@
 #main_player .player_header span.active {
   background: #FFFFFF !important;
   color: #000000 !important; }
+#main_player .play-song-link i {
+  background: #FFFFFF; }
+#main_player .play-song-link .queue-info {
+  background: #FFFFFF; }
+#main_player .play-song-link {
+  background: #000000 !important; }
+
 /* Chat fixes */
 #main-room .right_section {
   background-color: rgba(0,0,0,0.75);
