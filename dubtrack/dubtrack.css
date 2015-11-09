@@ -122,7 +122,7 @@
   background-color: #B1B1B1 
 } 
 
-/* Chat split chat transparency remove */
+/* Chat split chat transparency remove
 .chat-main li:nth-child(even) {
     background: rgba(0, 0, 0,0.3) !important;
     box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.3) !important; 
