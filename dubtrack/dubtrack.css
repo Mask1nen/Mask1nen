@@ -36,7 +36,7 @@
 /* Chat fixes */
 #main-room .right_section {
   background-color: rgba(0,0,0,0.7);
-  border-left: 1px solid black !important; }
+  border-left: 0px solid black !important; }
 .backstretch {
   visibility:hidden; }
 #user_popover {
