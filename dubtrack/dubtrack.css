@@ -32,14 +32,14 @@
   background-color: rgba(0,0,0,0.75);
   margin-top:2px;}
 #main_player .player_header span {
-  background: #000000 !important;
+  background: rgba(0,0,0,0.75) !important;
   color: #FFFFFF !important;
   opacity: 1;
   border-radius: 0px;
   width: 78.2031px;
   margin: 0px; }
 #main_player .player_header span.active {
-  background: #FFFFFF !important;
+  background: rgba(0,0,0,0.75) !important;
   color: #000000 !important;
   opacity: 1;
   border-radius: 0px;
@@ -50,9 +50,10 @@
 #main_player .play-song-link .queue-info {
   background: #FFFFFF; }
 #main_player .play-song-link {
-  background: #000000 !important;
+  background: rgba(0,0,0,0.75) !important;
   margin:0px;
-  border-radius:0px; }
+  border-radius:0px;
+  padding: 13.5px 1.5rem; }
 
 /* Chat fixes */
 #main-room .right_section {
