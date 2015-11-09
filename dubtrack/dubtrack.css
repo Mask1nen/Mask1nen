@@ -25,7 +25,8 @@
 
 /* Remove rounded edges on headerbar */
 #header-global {
-  border-radius: 0px !important; }
+  border-radius: 0px !important;
+  background-color: rgba(0,0,0,0.5); }
 
 /* Player fixes */
 #main_player {
