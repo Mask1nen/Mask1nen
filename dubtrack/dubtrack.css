@@ -39,7 +39,7 @@
   width: 78.2031px;
   margin: 0px; }
 #main_player .player_header span.active {
-  background: rgba(0,0,0,0.75) !important;
+  background: rgba(255,255,255,255.75) !important;
   color: #000000 !important;
   opacity: 1;
   border-radius: 0px;
@@ -51,7 +51,6 @@
   background: #FFFFFF; }
 #main_player .play-song-link {
   background: rgba(0,0,0,0.75) !important;
-  margin:0px;
   border-radius:0px;
   padding: 13.5px 1.5rem; }
 
