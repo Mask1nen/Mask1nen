@@ -51,7 +51,8 @@
   background: #FFFFFF; }
 #main_player .play-song-link {
   background: rgba(0,0,0,0.75) !important;
-  border-radius:0px;
+  border-radius:0px; }
+#main-room .left_section #main_player .play-song-link {
   padding: 13.5px 1.5rem; }
 
 /* Chat fixes */
