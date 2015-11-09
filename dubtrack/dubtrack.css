@@ -34,10 +34,10 @@
   margin-top:2px;}
 #main_player .player_header span {
   background: rgba(0,0,0,0.5) !important;
-  color: #FFFFFF; }
+  color: #FFFFFF !important; }
 #main_player .player_header span.active {
-  background: #FFFFFF;
-  color: #000000; }
+  background: #FFFFFF !important;
+  color: #000000 !important; }
 /* Chat fixes */
 #main-room .right_section {
   background-color: rgba(0,0,0,0.75);
