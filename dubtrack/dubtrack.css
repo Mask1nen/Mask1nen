@@ -65,6 +65,9 @@
 #main-room .left_section #main_player .play-song-link {
   padding: 13px 1.5rem; 
 }
+#main-room .left_section {
+  border-bottom-left-radius: 0;
+}
 
 /* Chat fixes */
 #main-room .right_section {
