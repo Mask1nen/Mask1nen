@@ -166,9 +166,4 @@
  /* Hide annotations */
 .html5-video-content .video-annotations { display: none !important; 
 }
-.activity-row.text.twitch-emoji.emoji {
-  max-width: auto !important;
-  max-height: 24px !important;
-  width: auto !important;
-  height: auto !important;
-}
+
