@@ -159,13 +159,14 @@
 .durationRemaining { margin: 6px 4px 4px 4px !important; 
 }
  
- /* Hide Youtube Watermark */
+/* Hide Youtube Watermark */
 .ytp-watermark { display: none !important; 
 }
 
- /* Hide annotations */
+/* Hide annotations */
 .html5-video-content .video-annotations { display: none !important; 
 }
+/* Fix emote size */
 #chat .twitch-emote.emoji {
   max-width: 100px !important; 
   max-height: 30px !important;
