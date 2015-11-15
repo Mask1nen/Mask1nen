@@ -166,7 +166,7 @@
  /* Hide annotations */
 .html5-video-content .video-annotations { display: none !important; 
 }
-.twitch-emoji.emoji {
+.text .twitch-emoji.emoji {
   max-width: auto !important;
   max-height: 24px !important;
   width: auto !important;
