@@ -166,7 +166,7 @@
 /* Hide annotations */
 .html5-video-content .video-annotations { display: none !important; 
 }
-.right_section #chat .activity-row .text .twitch-emote.emoji {
+.right_section #chat .activity-row .text .twitch-emoji.emoji {
   max-width: 100px !important;
   max-height: 30px !important;
   width: auto !important;
