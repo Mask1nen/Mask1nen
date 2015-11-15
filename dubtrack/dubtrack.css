@@ -166,8 +166,9 @@
  /* Hide annotations */
 .html5-video-content .video-annotations { display: none !important; 
 }
-.twitch-emoji.emoji[title="lenny"], .twitch-emoji.emoji[title="shrug"], .twitch-emoji.emoji[title="angelthump"] {
-  max-width: none !important;
+.twitch-emoji.emoji {
+  max-width: auto !important;
+  max-height: 24px !important;
   width: auto !important;
   height: auto !important;
 }
