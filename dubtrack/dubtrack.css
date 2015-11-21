@@ -91,10 +91,9 @@
 /* Fix chat position */
 .right_section {
   height: calc(100vh - 114px)!important;
-  margin-top:2px;
 }
 .main-room-wrapper .right_section #chat {
-  margin-top:2px;
+  margin-top:2px !important;
 }
 /*
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p { 
