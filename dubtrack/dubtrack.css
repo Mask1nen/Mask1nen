@@ -91,8 +91,9 @@
 /* Fix chat position */
 .right_section {
   height: calc(100vh - 114px)!important;
+  margin-top:2px;
 }
-.right_section #chat {
+.main-room-wrapper .right_section #chat {
   margin-top:2px;
 }
 /*
