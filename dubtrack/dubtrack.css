@@ -73,7 +73,8 @@
 /* Chat fixes */
 #main-room .right_section {
   background-color: rgba(0,0,0,0.75);
-  border-left: 0px solid black !important; 
+  border-left: 0px solid black !important;
+  margin-top: 2px !important;
 }
 /*
 .backstretch {
@@ -91,11 +92,6 @@
 /* Fix chat position */
 .right_section {
   height: calc(100vh - 114px)!important;
-
-}
-#main-room .main-room-wrapper .right_section #chat {
-  margin-top:2px !important;
-
 }
 /*
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p { 
