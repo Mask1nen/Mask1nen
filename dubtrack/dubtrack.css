@@ -75,11 +75,12 @@
   background-color: rgba(0,0,0,0.75);
   border-left: 0px solid black !important; 
 }
-
+/*
 .backstretch {
-  visibility:hidden; 
+  visibility:hidden; */
 }
 
+/* Fix popover */
 #user_popover {
   left:1167px !important;
 }
@@ -87,10 +88,12 @@
 #chat .chat-container .chat-messages .chat-main li .stream-item-content .image_row {
   border-radius: 5px !important; 
 }
-
+/* Fix chat position */
 .right_section {
-  margin-top:2px;
   height: calc(100vh - 114px)!important;
+}
+.right_section #chat {
+  margin-top:2px;
 }
 /*
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p { 
@@ -98,10 +101,12 @@
 }
 
 /* Video next to chat */
-#main-room .left_section { left: initial; right: 450px; 
+#main-room .left_section { 
+  left: initial; right: 450px; 
 }
 
-#main-room .left_section #main_player { border-radius: 0; border-bottom-left-radius: 1rem;
+#main-room .left_section #main_player {
+  border-radius: 0; border-bottom-left-radius: 1rem;
 }
 
 /* Miscellaneous */
@@ -166,6 +171,7 @@
 /* Hide annotations */
 .html5-video-content .video-annotations { display: none !important; 
 }
+/* Fix emote size */
 .right_section #chat .activity-row .text .twitch-emoji.emoji {
   max-width: 100px !important;
   max-height: 30px !important;
