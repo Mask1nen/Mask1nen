@@ -142,13 +142,13 @@
   background-repeat:no-repeat; 
 }
 
-/* Chat Badge */
+/* Chat Badge
 #chat li.user-5607ef7e424a6203007d4fbe p a.username::before {
   content: url("http://i.imgur.com/okNnPvs.png") !important;
   margin-right: 3px; 
 }
 
-/* Maskinen Chat Color */
+/* Maskinen Chat Color
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe.activity-row .text p a.username:visited{
   color: #CC3399 !important;
 }
