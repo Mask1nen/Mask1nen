@@ -4,6 +4,12 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
+#player-controller .left:after {
+    background-image: linear-gradient(to top,
+                                    transparent 5px,
+                                    transparent 5px,
+                                    transparent 100%);
+}
 /* Bottom bar transparency and fix */
 .main-page-container #main-section #player-controller .left {
   background-color: rgba(0,0,0,0.5) !important;
