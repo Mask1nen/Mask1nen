@@ -3,7 +3,7 @@
 @import url("https://hebgbs.github.io/rainbowstuff.css"); /* Rainbow sliders Vote icons */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
-
+/* Fix footer bar gradient background */
 #player-controller .left:after {
  background-image: linear-gradient(to top,
 transparent 5px,
