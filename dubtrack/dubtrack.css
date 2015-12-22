@@ -5,10 +5,7 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
 #player-controller .left:after {
-    background-image: linear-gradient(to top,
-                                    transparent 5px,
-                                    transparent 5px,
-                                    transparent 100%);
+    background-image: transparent !important;
 }
 /* Bottom bar transparency and fix */
 .main-page-container #main-section #player-controller .left {
