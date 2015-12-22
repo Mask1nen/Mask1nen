@@ -49,6 +49,9 @@ transparent 100%) !important;
   width: 78.2031px;
   margin: 0px; 
 }
+#main_player .player_header {
+ left: -78px !important;
+}
 
 #main_player .player_header span.active {
   background: rgba(255,255,255,255.75) !important;
