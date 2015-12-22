@@ -4,12 +4,6 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
-/* Fix buttons border radius */
-#main_player .player_header span {
-border-bottom-left-radius: 20px !important;
-border-top-left-radius: 20px !important;
-}
-
 /* Fix footer bar gradient background */
 #player-controller .left:after {
  background-image: linear-gradient(to top,
@@ -47,26 +41,29 @@ transparent 100%) !important;
   margin-top:2px;
 }
 
+/* Player buttons fixes */
 #main_player .player_header span {
   background: rgba(0,0,0,0.75) !important;
   color: #FFFFFF !important;
   opacity: 1;
-  border-radius: 0px;
-  width: 78.2031px;
-  margin: 0px; 
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  width: 65px;
+  margin-top: 3px; 
 }
+
 #main_player .player_header {
- left: -78px !important;
+ left: -65px !important;
 }
 
 #main_player .player_header span.active {
-  background: rgba(255,255,255,255.75) !important;
+  background: rgba(255,255,255,0.75) !important;
   color: #000000 !important;
   opacity: 1;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
-  width: 78.2031px;
-  margin: 0px; 
+  width: 65px;
+  margin-top: 3px; 
 }
 
 #main_player .play-song-link i {
