@@ -4,21 +4,18 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
-#header-global #main-page-container #main-section #player-controller .left:after{
-  background-image: none !important;
-}
 /* Bottom bar transparency and fix */
-#header-global #main-page-container #main-section #player-controller .left {
-  background: rgba(0,0,0,0.5) !important;
+#header-global .main-page-container #main-section #player-controller .left {
+  background-color: rgba(0,0,0,0.5) !important;
   border-radius: 0px !important; 
 }
 
-#header-global #main-page-container #main-section #player-controller .right {
+#header-global .main-page-container #main-section #player-controller .right {
   background: rgba(0,0,0,0.0) !important;
   border-radius: 0px !important;
 }
 
-#header-global #main-page-container #main-section #player-controller {
+#header-global .main-page-container #main-section #player-controller {
   border-radius: 0px !important;
   background: rgba(0,0,0,0.5) !important; 
 }
