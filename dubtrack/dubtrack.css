@@ -5,17 +5,17 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
 /* Bottom bar transparency and fix */
-#header-global .main-page-container #main-section #player-controller .left {
+.main-page-container #main-section #player-controller .left {
   background-color: rgba(0,0,0,0.5) !important;
   border-radius: 0px !important; 
 }
 
-#header-global .main-page-container #main-section #player-controller .right {
+.main-page-container #main-section #player-controller .right {
   background: rgba(0,0,0,0.0) !important;
   border-radius: 0px !important;
 }
 
-#header-global .main-page-container #main-section #player-controller {
+.main-page-container #main-section #player-controller {
   border-radius: 0px !important;
   background: rgba(0,0,0,0.5) !important; 
 }
