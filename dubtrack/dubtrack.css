@@ -6,9 +6,9 @@
 
 #player-controller .left:after {
  background-image: linear-gradient(to top,
-                                    transparent 5px,
-                                    rgba(0, 0, 0,0.5) 5px,
-                                    rgb(0, 0, 0,0.5) 100%);
+transparent 5px,
+rgba(0, 0, 0,0.5) 5px,
+rgba(0, 0, 0,0.5) 100%) !important;
 }
 /* Bottom bar transparency and fix */
 .main-page-container #main-section #player-controller .left {
