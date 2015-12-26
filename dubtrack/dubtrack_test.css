@@ -4,3 +4,10 @@
 {
     color: #FFFFFF !important;
 }
+#chat .chat-main .isVip .username::before
+{
+    content:       "V"
+    position:      relative;
+    top:           4px;
+    padding-right: 2px;
+}
