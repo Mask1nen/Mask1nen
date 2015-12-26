@@ -2,7 +2,7 @@
 #chat .chat-main .isVip .username:hover,
 #chat .chat-main .isVip .username:visited
 {
-    color: #FFFFFF !important;
+    color: ##ff8000 !important;
 }
 #chat .chat-main .isVip .username::before
 {
