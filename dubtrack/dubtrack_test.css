@@ -1,6 +1,6 @@
-#chat .chat-main .isVip .username,
-#chat .chat-main .isVip .username:hover,
-#chat .chat-main .isVip .username:visited
+#chat .chat-main .isVIP .username,
+#chat .chat-main .isVIP .username:hover,
+#chat .chat-main .isVIP .username:visited
 {
     color: #FFFFFF !important;
 }
