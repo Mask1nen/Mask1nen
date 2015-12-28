@@ -28,12 +28,17 @@ transparent 100%) !important;
 .main-page-container #main-section #player-controller {
   border-radius: 0px !important;
   background: rgba(0,0,0,0.5) !important; 
+  color: deeppink;
+}
+#player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong {
+    color: white;
 }
 
 /* Remove rounded edges on headerbar */
 #header-global {
   border-radius: 0px !important;
   background-color: rgba(0,0,0,0.75); 
+  color: deeppink;
 }
 
 /* Player fixes */
@@ -69,7 +74,7 @@ transparent 100%) !important;
 }
 
 #main_player .play-song-link i {
-  color: #FFFFFF; 
+  color: deeppink; 
 }
 
 #main_player .play-song-link .queue-info {
