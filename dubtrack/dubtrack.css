@@ -37,20 +37,20 @@ transparent 100%) !important;
 /* Remove rounded edges on headerbar */
 #header-global {
   border-radius: 0px !important;
-  background-color: rgba(0,0,0,0.75); 
+  background-color: rgba(0,0,0,0.5); 
   color: deeppink;
 }
 
 /* Player fixes */
 #main_player {
-  background-color: rgba(0,0,0,0.75);
+  background-color: rgba(0,0,0,0.5);
   margin-top:2px;
   color: deeppink !important;
 }
 
 /* Player buttons fixes */
 #main_player .player_header span {
-  background: rgba(0,0,0,0.75) !important;
+  background: rgba(0,0,0,0.5) !important;
   color: deeppink !important;
   opacity: 1;
   border-top-left-radius: 20px;
@@ -95,7 +95,7 @@ transparent 100%) !important;
 
 /* Chat fixes */
 #main-room .right_section {
-  background-color: rgba(0,0,0,0.75);
+  background-color: rgba(0,0,0,0.5);
   border-left: 0px solid black !important;
   margin-top: 2px !important;
 }
