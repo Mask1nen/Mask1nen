@@ -82,7 +82,7 @@ transparent 100%) !important;
 }
 
 #main_player .play-song-link {
-  background: rgba(0,0,0,0.75) !important;
+  background: rgba(0,0,0,0.6) !important;
   border-radius:0px; 
 }
 
@@ -95,7 +95,7 @@ transparent 100%) !important;
 
 /* Chat fixes */
 #main-room .right_section {
-  background-color: rgba(0,0,0,0.5);
+  background-color: rgba(0,0,0,0.6);
   border-left: 0px solid black !important;
   margin-top: 2px !important;
 }
