@@ -27,7 +27,7 @@ transparent 100%) !important;
 
 .main-page-container #main-section #player-controller {
   border-radius: 0px !important;
-  background: rgba(0,0,0,0.6) !important; 
+  background: #1a1a1a !important; 
   color: deeppink;
 }
 #player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong {
@@ -37,20 +37,20 @@ transparent 100%) !important;
 /* Remove rounded edges on headerbar */
 #header-global {
   border-radius: 0px !important;
-  background-color: rgba(0,0,0,0.6); 
+  background-color: #1a1a1a; 
   color: deeppink;
 }
 
 /* Player fixes */
 #main_player {
-  background-color: rgba(0,0,0,0.6);
+  background-color: #1a1a1a;
   margin-top:2px;
   color: deeppink !important;
 }
 
 /* Player buttons fixes */
 #main_player .player_header span {
-  background: rgba(0,0,0,0.6) !important;
+  background: #1a1a1a !important;
   color: deeppink !important;
   opacity: 1;
   border-top-left-radius: 20px;
@@ -95,7 +95,7 @@ transparent 100%) !important;
 
 /* Chat fixes */
 #main-room .right_section {
-  background-color: rgba(0,0,0,0.6);
+  background-color: #1a1a1a;
   border-left: 0px solid black !important;
   margin-top: 2px !important;
 }
