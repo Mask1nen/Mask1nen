@@ -54,10 +54,10 @@ a, a:active, a:focus, a:hover,
 
 /* DubX Menu */
 .for_content {
-	background: deeppink !important;
+	background: darkgray !important;
 }
 .for_content_off {
-	color: deeppink !important;
+	color: deepink !important;
 }
 .for_content_version, .for_content_p {
 	color: deeppink !important;
@@ -65,7 +65,7 @@ a, a:active, a:focus, a:hover,
 
 /** DubX Feature Menus **/
 .onErr .container .control .confirm {
-	background: deeppink !important;
+	background: darkgray !important;
 }
 .for_content_c {
 	#color: deeppink !important;
