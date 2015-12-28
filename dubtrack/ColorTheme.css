@@ -7,8 +7,6 @@
 
 
 /* Background Override WIP */
-
-.medium { background-image: url("https://krdemoz.github.io/Dubtrack/Backgrounds/BG_Purple.jpg") !important;
 }
 
 /* Main Menu (left) */
@@ -74,8 +72,6 @@ a, a:active, a:focus, a:hover,
 }
 
 /* Bottom Header */
-#player-controller .left ul li.infoContainer .infoContainerInner .progressBg {
-	background: deeppink;
 }
 .icon-play:before, .icon-playlist:before, .icon-history:before, .icon-heart:before {
 	color: deeppink;
@@ -91,9 +87,6 @@ a, a:active, a:focus, a:hover,
 }
 #player-controller .right ul li .dubdown .icon-arrow-down, #player-controller .right ul li .dubdown .dub-counter {
 	color: deeppink;
-}
-#player-controller .left ul li.imgEl, #player-controller .left ul li.infoContainer .infoContainerInner, #player-controller .left, #player-controller .right {
-	background: deeppink;
 }
 
 /* Add to Playlist */

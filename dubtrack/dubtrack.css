@@ -40,12 +40,13 @@ transparent 100%) !important;
 #main_player {
   background-color: rgba(0,0,0,0.75);
   margin-top:2px;
+  color: deeppink !important;
 }
 
 /* Player buttons fixes */
 #main_player .player_header span {
   background: rgba(0,0,0,0.75) !important;
-  color: #FFFFFF !important;
+  color: deeppink !important;
   opacity: 1;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
@@ -58,8 +59,8 @@ transparent 100%) !important;
 }
 
 #main_player .player_header span.active {
-  background: rgba(255,255,255,0.75) !important;
-  color: #000000 !important;
+  background: black !important;
+  color: deeppink !important;
   opacity: 1;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
