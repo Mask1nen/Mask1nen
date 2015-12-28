@@ -80,7 +80,7 @@ a, a:active, a:focus, a:hover,
 	background: deeppink;
 }
 #player-controller .right ul li .add-to-playlist-button.grabbed {
-    backgroun: deeppink;
+    background: deeppink !important;
 }
 
 #player-controller .right ul li .dubup .icon-arrow-up, #player-controller .right ul li .dubup .dub-counter {
