@@ -43,18 +43,18 @@ a, a:active, a:focus, a:hover,
 	color: deeppink;
 }
 #private-messages .loading {
-	background: deeppink;
+	background: #1A1A1A;
 }
 #private-messages .main-message-list ul.message-list li.message-item.new-message:before, #private-messages .message-details ul.message-list li.message-item.new-message:before {
-	background: deeppink;
+	background: #1A1A1A;
 }
 #private-messages .main-message-list, #private-messages .message-details {
-	background: deeppink;
+	background: #1A1A1A;
 }
 
 /* DubX Menu */
 .for_content {
-	background: darkgray !important;
+	background: #1A1A1A !important;
 }
 .for_content_off {
 	color: deepink !important;
@@ -65,7 +65,7 @@ a, a:active, a:focus, a:hover,
 
 /** DubX Feature Menus **/
 .onErr .container .control .confirm {
-	background: darkgray !important;
+	background: #1A1A1A !important;
 }
 .for_content_c {
 	#color: deeppink !important;
@@ -79,6 +79,10 @@ a, a:active, a:focus, a:hover,
 #player-controller .right ul li .dubup.voted {
 	background: deeppink;
 }
+#player-controller .right ul li .add-to-playlist-button.grabbed {
+    backgroun: deeppink;
+}
+
 #player-controller .right ul li .dubup .icon-arrow-up, #player-controller .right ul li .dubup .dub-counter {
 	color: deeppink;
 }
