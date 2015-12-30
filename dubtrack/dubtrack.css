@@ -152,7 +152,7 @@ transparent 100%) !important;
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li span {
  color: white !important;
 }
-#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li active {
+#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
  color: #1a1a1a !important;
 }
 
