@@ -132,15 +132,36 @@ transparent 100%) !important;
 
 /* Miscellaneous */
 
+/* Fix add to playlist background */
+#addToPlaylistFloatContainer {
+  background: #1A1A1A !important;
+}
+
+/* Fix mod controller active color */
+#mods-controllers .mods-controllers-main-wrapper .mod-controllers-headers a.active {
+ color: white !important;
+}
+
+/* Fix playlist selector color */
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
  background: deeppink !important;
  color: white !important;
 }
+
+/* Fix playlist number color */
+#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li span {
+ color: white !important;
+}
+#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li active {
+ color: #1a1a1a !important;
+}
+
+/* System message recolor */
 .right_section #chat .chat-main li[class*='system'] {
-    color: deeppink !important;
-    text-align: center;
-    border-top: deeppink 1px solid !important;
-    border-bottom: deeppink 1px solid !important;
+  color: deeppink !important;
+  text-align: center;
+  border-top: deeppink 1px solid !important;
+  border-bottom: deeppink 1px solid !important;
 }
 
 /* Loading, promote/demote and song skips in chat not so similar to user /me's */
@@ -162,30 +183,6 @@ transparent 100%) !important;
 .ps-container .ps-scrollbar-x, .ps-container .ps-scrollbar-y, .ps-container .ps-scrollbar-x-rail:hover .ps-scrollbar-x, .ps-container .ps-scrollbar-y-rail:hover .ps-scrollbar-y { 
   background-color: #B1B1B1 
 } 
-
-/* Chat split chat transparency remove
-.chat-main li:nth-child(even) {
-    background: rgba(0, 0, 0,0.3) !important;
-    box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.3) !important; 
-}
-
-/* Pic after name in chat
-#chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row , #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe.activity-row{
-  background-image:url("http://i.imgur.com/LheImT5.png");
-  background-position: right;
-  background-repeat:no-repeat; 
-}
-
-/* Chat Badge
-#chat li.user-5607ef7e424a6203007d4fbe p a.username::before {
-  content: url("http://i.imgur.com/okNnPvs.png") !important;
-  margin-right: 3px; 
-}
-
-/* Maskinen Chat Color
-#chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe.activity-row .text p a.username:visited{
-  color: #CC3399 !important;
-}
 
 /* Netuxx Chat Color */
 #chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0 .activity-row .text p a.username, #chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0 .activity-row .text p a.username:hover, #chat .chat-container ul.chat-main li.user-560b4a33d9057a0300cc2fa0.activity-row .text p a.username:visited{
