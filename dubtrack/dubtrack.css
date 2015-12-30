@@ -132,6 +132,17 @@ transparent 100%) !important;
 
 /* Miscellaneous */
 
+#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
+ background: deeppink !important;
+ color: white !important;
+}
+.right_section #chat .chat-main li[class*='system'] {
+    color: deeppink !important;
+    text-align: center;
+    border-top: deeppink 1px solid !important;
+    border-bottom: deeppink 1px solid !important;
+}
+
 /* Loading, promote/demote and song skips in chat not so similar to user /me's */
 #chat .chat-main .system, #chat .chat-main .chat-system-loading { 
   text-align: center; color: #0090CC !important; 
