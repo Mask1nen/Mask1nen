@@ -132,6 +132,11 @@ transparent 100%) !important;
 
 /* Miscellaneous */
 
+/* Fix queue song color */
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .search-item .display-success {
+ background:deeppink !important;
+}
+
 /* Fix add to playlist background */
 #addToPlaylistFloatContainer {
   background: #1A1A1A !important;
