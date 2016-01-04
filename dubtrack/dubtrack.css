@@ -19,7 +19,7 @@
     color: deeppink;
 }
 
-#browser .browser-content .browser-content-main .sidebar .import-playlist {
+#browser .browser-content .browser-content-main .sidebar .import-playlist, #browser .browser-content .browser-content-main .sidebar .create-playlist {
     background: transparent;
 }
 
