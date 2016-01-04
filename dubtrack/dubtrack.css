@@ -5,6 +5,17 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
+#user_popover .actions a input {
+    background: #1a1a1a !important;
+    color: deeppink;
+}
+
+/* Fix message counter color */
+#header-global .header-right-navigation .user-messages .message-counter {
+    background: #1a1a1a;
+    color: deeppink;
+}
+
 /* Fix footer bar gradient background */
 #player-controller .left:after {
  background-image: linear-gradient(to top,
