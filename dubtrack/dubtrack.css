@@ -5,6 +5,11 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
+/* Queue redesign */
+#browser .browser-content .browser-content-main .sidebar .import-playlist {
+    background: transparent;
+}
+
 #browser .browser-content .browser-content-main .sidebar {
     background: none;
 }
@@ -34,6 +39,7 @@
     background: transparent;
 }
 
+/* Fix ban font color */
 #user_popover .actions a input {
     background: #1a1a1a !important;
     color: deeppink;
