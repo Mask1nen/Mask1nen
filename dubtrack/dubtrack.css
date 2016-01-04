@@ -10,7 +10,7 @@
 }
 
 #browser .browser-content .browser-content-main .nano .content-videos {
-    background: rgba(0,0,0,0.5);
+    background: rgba(0,0,0,0.7);
 }
 
 #browser .browser-content .browser-content-main .nano .content-videos .queue_info .right a {
@@ -25,7 +25,7 @@
     background: transparent !important;
 }
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll {
-    background: rgba(0,0,0,0.8) !important;
+    background: rgba(0,0,0,0.7) !important;
 }
 #browser .browser-content .browser-content-header .form input {
     background: rgba(0,0,0,0.5)!important;
