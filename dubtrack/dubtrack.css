@@ -5,6 +5,22 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
+#browser .browser-content .browser-content-main .sidebar {
+    background: none;
+}
+
+#browser .browser-content .browser-content-main .nano .content-videos {
+    background: rgba(0,0,0,0.5);
+}
+
+#browser .browser-content .browser-content-main .nano .content-videos .queue_info .right a {
+    background: transparent;
+}
+
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item {
+    background: rgba(0,0,0,0.5);
+}
+
 #browser .browser-content .browser-content-header {
     background: transparent !important;
 }
