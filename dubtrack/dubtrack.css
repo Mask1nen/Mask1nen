@@ -7,6 +7,10 @@
 
 /* Queue redesign */
 
+#browser .browser-content .browser-content-main .nano .content-videos .playlist_info .right a {
+    background: transparent;
+}
+
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .playlist-item {
     background: transparent;
 }
