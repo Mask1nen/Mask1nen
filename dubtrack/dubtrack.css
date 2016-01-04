@@ -43,7 +43,7 @@
     background: transparent !important;
 }
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll {
-    background: rgba(0,0,0,0.7) !important;
+    background: rgba(0,0,0,0.3) !important;
 }
 #browser .browser-content .browser-content-header .form input {
     background: rgba(0,0,0,0.5)!important;
