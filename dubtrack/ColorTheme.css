@@ -55,8 +55,8 @@
 }
 .right_section #chat .chat-main li[class*='system'] {
   color: #FF1900;
-    border-top: 1px solid #FF1900;
-  border-bottom: 1px solid #FF1900;
+    border-top: 1px solid #FF1900 !important;
+  border-bottom: 1px solid #FF1900 !impotant;
 }
 
 
