@@ -19,10 +19,6 @@
     background: transparent;
 }
 
-#browser .browser-content .browser-content-main .sidebar .title {
-    color: deeppink;
-}
-
 #browser .browser-content .browser-content-main .sidebar .import-playlist, #browser .browser-content .browser-content-main .sidebar .create-playlist {
     background: transparent;
 }
@@ -56,16 +52,16 @@
     background: transparent;
 }
 
+.main-page-container #main-section #player-controller {
+  border-radius: 0px !important;
+  background: rgba(0,0,0,0.8) !important; 
+}
+#header-global .header-right-navigation .user-messages .message-counter {
+    background: #1a1a1a;
+}
 /* Fix ban font color */
 #user_popover .actions a input {
     background: #1a1a1a !important;
-    color: deeppink;
-}
-
-/* Fix message counter color */
-#header-global .header-right-navigation .user-messages .message-counter {
-    background: #1a1a1a;
-    color: deeppink;
 }
 
 /* Fix footer bar gradient background */
@@ -88,11 +84,6 @@ transparent 100%) !important;
   border-radius: 0px !important;
 }
 
-.main-page-container #main-section #player-controller {
-  border-radius: 0px !important;
-  background: rgba(0,0,0,0.8) !important; 
-  color: deeppink;
-}
 #player-controller .left ul li.infoContainer .infoContainerInner .currentDJSong {
     color: white;
 }
@@ -101,7 +92,6 @@ transparent 100%) !important;
 #header-global {
   border-radius: 0px !important;
   background-color: rgba(0,0,0,0.8); 
-  color: deeppink;
 }
 
 /* Player fixes */
@@ -114,7 +104,6 @@ transparent 100%) !important;
 /* Player buttons fixes */
 #main_player .player_header span {
   background: rgba(0,0,0,0.8) !important;
-  color: deeppink !important;
   opacity: 1;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
@@ -128,16 +117,11 @@ transparent 100%) !important;
 
 #main_player .player_header span.active {
   background: black !important;
-  color: deeppink !important;
   opacity: 1;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
   width: 65px;
   margin-top: 3px; 
-}
-
-#main_player .play-song-link i {
-  color: deeppink; 
 }
 
 #main_player .play-song-link .queue-info {
@@ -161,10 +145,6 @@ transparent 100%) !important;
   background-color: rgba(0,0,0,0.8);
   border-left: 0px solid black !important;
   margin-top: 2px !important;
-}
-/*
-.backstretch {
-  visibility:hidden; */
 }
 
 /* Fix popover */
@@ -195,11 +175,6 @@ transparent 100%) !important;
 
 /* Miscellaneous */
 
-/* Fix queue song color */
-#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .search-item .display-success {
- background:deeppink !important;
-}
-
 /* Fix add to playlist background */
 #addToPlaylistFloatContainer {
   background: #1A1A1A !important;
@@ -212,7 +187,6 @@ transparent 100%) !important;
 
 /* Fix playlist selector color */
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
- background: deeppink !important;
  color: white !important;
 }
 
@@ -226,10 +200,7 @@ transparent 100%) !important;
 
 /* System message recolor */
 .right_section #chat .chat-main li[class*='system'] {
-  color: deeppink !important;
   text-align: center;
-  border-top: deeppink 1px solid !important;
-  border-bottom: deeppink 1px solid !important;
 }
 
 /* Loading, promote/demote and song skips in chat not so similar to user /me's */
