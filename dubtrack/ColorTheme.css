@@ -105,21 +105,21 @@ a, a:active, a:focus, a:hover,
 
 /* DubX Menu */
 .for_content {
-	background: #1A1A1A;
+	background: #1A1A1A !important;
 }
 .for_content_off {
-	color: #FF1900;
+	color: #FF1900 !important;
 }
 .for_content_version, .for_content_p {
-	color: #FF1900;
+	color: #FF1900 !important;
 }
 
 /** DubX Feature Menus **/
 .onErr .container .control .confirm {
-	background: #1A1A1A;
+	background: #1A1A1A !important;
 }
 .for_content_c {
-	#color: #FF1900;
+	#color: #FF1900 !important;
 }
 
 /* Bottom Header */
