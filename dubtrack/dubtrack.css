@@ -10,10 +10,10 @@
 }
 
 #player-controller .right ul li .dubup.voted span {
-    color: white;
+    color: #1a1a1a;
 }
 #player-controller .right ul li .dubdown.voted span {
-    color: white;
+    color: #1a1a1a;
 }
 
 /* Queue redesign */
