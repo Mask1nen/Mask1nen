@@ -5,7 +5,11 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
-/* sys message color change */
+#header-global .header-right-navigation .user-info .user-image {
+    border-radius: 5px !important;
+}
+
+* sys message color change */
 #chat .chat-container .chat-messages .chat-main li.system-error { text-transform: uppercase; }
 #chat .chat-main li[class*='system']{
     text-align: center;
