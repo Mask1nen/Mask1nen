@@ -5,6 +5,11 @@
     Current Colour: Aliceblue.
 */
 
+/* Player fixes */
+#main_player {
+  color: #3A9E00 !important;
+}
+
 #browser .browser-content .browser-content-main .sidebar .title {
     color: #3A9E00;
 }
