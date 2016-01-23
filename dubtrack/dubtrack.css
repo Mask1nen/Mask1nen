@@ -5,6 +5,13 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
+#player-controller .right ul li .dubup.voted span {
+    color: white;
+}
+#player-controller .right ul li .dubdown.voted span {
+    color: white;
+}
+
 /* Queue redesign */
 
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .search-item {
