@@ -5,7 +5,50 @@
 
 */
 
+#browser .browser-content .browser-content-main .sidebar .title {
+    color: deeppink;
 }
+/* Fix ban font color */
+#user_popover .actions a input {
+    color: deeppink;
+}
+/* Fix message counter color */
+#header-global .header-right-navigation .user-messages .message-counter {
+    color: deeppink;
+}
+.main-page-container #main-section #player-controller {
+  color: deeppink;
+}
+/* Remove rounded edges on headerbar */
+#header-global {
+  color: deeppink;
+}
+/* Player fixes */
+#main_player {
+  color: deeppink !important;
+}
+#main_player .player_header span {
+  color:deeppink !important;
+}
+#main_player .player_header span.active {
+  color: deeppink !important;
+}
+#main_player .play-song-link i {
+  color: deeppink; 
+}
+/* Fix queue song color */
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .search-item .display-success {
+ background:deeppink !important;
+}
+#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
+ background: deeppink !important;
+}
+.right_section #chat .chat-main li[class*='system'] {
+  color: deeppink !important;
+    border-top: deeppink 1px solid !important;
+  border-bottom: deeppink 1px solid !important;
+}
+
 
 /* Main Menu (left) */
 #main-menu-left a.room-active-link {
