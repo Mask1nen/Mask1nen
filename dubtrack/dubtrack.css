@@ -111,8 +111,8 @@ transparent 100%) !important;
 #main_player .player_header span {
   background: rgba(0,0,0,0.8) !important;
   opacity: 1;
-  border-top-left-radius: 20px;
-  border-bottom-left-radius: 20px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
   width: 65px;
   margin-top: 3px; 
 }
