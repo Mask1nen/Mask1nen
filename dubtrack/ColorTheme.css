@@ -211,12 +211,12 @@ span.name,
 
 /** Upvote/Downvote **/
 ul.avatar-list li.updub {
-	background: #00A1D6;
+	background: transparent
 	padding-left: 5px;
 	padding-right: 5px;
 }
 ul.avatar-list li.downdub {
-	background: #00A1D6;
+	background: #AB0000;
 	padding-left: 5px;
 	padding-right: 5px;
 }
