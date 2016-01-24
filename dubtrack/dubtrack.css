@@ -33,6 +33,7 @@ ul.avatar-list li.downdub {
 
 #main-room .left_section #main_player .play-song-link {
     color: white;
+    border: 2px solid #AB0000;
 }
 
 #player-controller .right ul li .dubup.voted span {
@@ -135,6 +136,7 @@ transparent 100%) !important;
 #main_player {
   background-color: rgba(0,0,0,0.8);
   margin-top:2px;
+  border: 2px solid #AB0000;
 }
 
 /* Player buttons fixes */
@@ -145,6 +147,7 @@ transparent 100%) !important;
   border-bottom-left-radius: 5px;
   width: 65px;
   margin-top: 3px; 
+  border: 2px solid #AB0000;
 }
 
 #main_player .player_header {
@@ -158,6 +161,7 @@ transparent 100%) !important;
   border-bottom-left-radius: 20px;
   width: 65px;
   margin-top: 3px; 
+  border: 2px solid #AB0000;
 }
 
 #main_player .play-song-link .queue-info {
@@ -170,7 +174,7 @@ transparent 100%) !important;
 }
 
 #main-room .left_section #main_player .play-song-link {
-  padding: 13px 1.5rem; 
+  padding: 11px 1.5rem; 
 }
 #main-room .left_section {
   border-bottom-left-radius: 0;
