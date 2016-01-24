@@ -2,88 +2,88 @@
     Custom CSS for Dubtrack.fm
     Editted Plug Theme and UI improvements
     Originally made by @kris | Redone by @sinful | Organised and coloured by @Maskinen
-    Current Colour: #00A1D6;.
+    Current Colour: #FF00FF.
     Change every color code the current code has to the one you want and import the code into your css.
 */
 
 .icon-heart:before {
-  color: #00A1D6;
+  color: #FF00FF;
 }
 
 /* Player fixes */
 #main_player {
-  color: #00A1D6;
+  color: #FF00FF;
 }
 
 #browser .browser-content .browser-content-main .sidebar .title {
-    color: #00A1D6;
+    color: #FF00FF;
 }
 /* Fix ban font color */
 #user_popover .actions a input {
-    color: #00A1D6;
+    color: #FF00FF;
 }
 /* Fix message counter color */
 #header-global .header-right-navigation .user-messages .message-counter {
-    color: #00A1D6;
+    color: #FF00FF;
 }
 .main-page-container #main-section #player-controller {
-  color: #00A1D6;
+  color: #FF00FF;
 }
 /* Remove rounded edges on headerbar */
 #header-global {
-  color: #00A1D6;
+  color: #FF00FF;
 }
 /* Player fixes */
 #main_player {
-  color: #00A1D6;
+  color: #FF00FF;
 }
 #main_player .player_header span {
-  color: #00A1D6;
+  color: #FF00FF;
 }
 #main_player .player_header span.active {
-  color: #00A1D6;
+  color: #FF00FF;
 }
 #main_player .play-song-link i {
-  color: #00A1D6;
+  color: #FF00FF;
 }
 /* Fix queue song color */
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .search-item .display-success {
- background: #00A1D6;
+ background: #FF00FF;
 }
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
- background: #00A1D6;
+ background: #FF00FF;
 }
 .right_section #chat .chat-main li[class*='system'] {
-  color: #00A1D6 !important;
-    border-top: 1px solid #00A1D6 !important;
-  border-bottom: 1px solid #00A1D6 !important;
+  color: #FF00FF !important;
+    border-top: 1px solid #FF00FF !important;
+  border-bottom: 1px solid #FF00FF !important;
 }
 
 
 /* Main Menu (left) */
 #main-menu-left a.room-active-link {
-	color: #00A1D6;
+	color: #FF00FF;
     box-shadow: inset 4px 0px 0px 0px #7851a9
 }
 
 #header-global .header-left-navigation:after {
-	color: #00A1D6;
+	color: #FF00FF;
 }
 /* Main Menu (right) */
 #header-global .header-right-navigation .user-info span {
-	color: #00A1D6;
+	color: #FF00FF;
 }
 
 /* Top Header */
 a, a:active, a:focus, a:hover,
 #header-global .header-left-navigation a.room-active-link.active-room .icon-chevron, #header-global .header-left-navigation a.room-active-link.active-room .icon-chevron:hover {
-	color: #00A1D6;
+	color: #FF00FF;
 }
 #main-loading {
-	background: #00A1D6;
+	background: #FF00FF;
 }
 #header-global .header-right-navigation .user-messages .message-counter {
-	background: #00A1D6;
+	background: #FF00FF;
 }
 
 /* Private Messages */
@@ -91,7 +91,7 @@ a, a:active, a:focus, a:hover,
 #private-messages .main-message-list .message-header a, #private-messages .message-details .message-header a,
 #private-messages .message-details ul.message-list li.message-item .message-content h3,
 #private-messages .private-message-details-info, #private-messages .private-message-info {
-	color: #00A1D6;
+	color: #FF00FF;
 }
 #private-messages .loading {
 	background: #1A1A1A;
@@ -108,7 +108,7 @@ a, a:active, a:focus, a:hover,
 	background: #1A1A1A !important;
 }
 .for_content_off {
-	color: #00A1D6 !important;
+	color: #FF00F
 }
 .for_content_version, .for_content_p {
 	color: #00A1D6 !important;
