@@ -139,7 +139,7 @@ transparent 100%) !important;
 
 /* Player buttons fixes */
 #main_player .player_header span {
-  background: rgba(0,0,0,0.8) !important;
+  background: black !important;
   opacity: 1;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
