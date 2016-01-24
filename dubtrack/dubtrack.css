@@ -136,7 +136,7 @@ transparent 100%) !important;
 #main_player {
   background-color: rgba(0,0,0,0.8);
   margin-top:2px;
-  border: 2px solid #AB0000;
+  border: 2px solid #AB0000 !important;
 }
 
 /* Player buttons fixes */
@@ -171,6 +171,7 @@ transparent 100%) !important;
 #main_player .play-song-link {
   background: rgba(0,0,0,0.8) !important;
   border-radius:0px; 
+  border: 2px solid #AB0000;
 }
 
 #main-room .left_section #main_player .play-song-link {
