@@ -5,6 +5,15 @@
     Current Colour: #AB0000.
     Change every color code the current code has to the one you want and import the code into your css.
 */
+#main_player .player_header span.active {
+border: 2px solid #AB0000;
+    border-right: none;
+}
+
+#main_player .player_header span {
+  border: 2px solid #AB0000;
+    border-right: none;
+}
 
 .icon-heart:before {
   color: #AB0000;
