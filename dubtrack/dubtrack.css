@@ -5,6 +5,18 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
+/** Upvote/Downvote **/
+ul.avatar-list li.updub {
+	background: transparent
+	padding-left: 5px;
+	padding-right: 5px;
+}
+ul.avatar-list li.downdub {
+	background: #AB0000;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
 #player-controller .right ul li .add-to-playlist-button.grabbed span {
     color: #1a1a1a;
 }
