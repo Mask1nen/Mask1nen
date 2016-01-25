@@ -9,6 +9,12 @@
 	height: 7px !important;
 }
 
+#chat .chat_tools {
+border-bottom: none;
+}
+
+
+
 /** Upvote/Downvote **/
 ul.avatar-list li.updub {
 	background: transparent
