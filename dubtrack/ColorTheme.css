@@ -5,8 +5,37 @@
     Current Colour: #AB0000.
     Change every color code the current code has to the one you want and import the code into your css.
 */
-#main_player .player_header span.active {
+
+#main-room .left_section #main_player .play-song-link {
+ border: 2px solid #AB0000;
+}
+
+#header_global {
+  border: 2px solid #AB0000;
+}
+
+#main_player {
+border: 2px solid #AB0000 !important;
+}
+
+#main_player .play-song-link {
 border: 2px solid #AB0000;
+}
+
+#main-room .right_section {
+  border-left: 2px solid #AB0000 !important;
+}
+
+.main-page-container #main-section #player-controller {
+ border-top: 2px solid #AB0000;
+}
+
+.main-page-container #main-section #player-controller .right {
+ border-left: 2px solid #AB0000;
+}
+
+#main_player .player_header span.active {
+ border: 2px solid #AB0000;
     border-right: none;
 }
 
