@@ -10,7 +10,7 @@
  border: 2px solid #AB0000;
 }
 
-#header_global {
+#header-global {
   border: 2px solid #AB0000;
 }
 
@@ -19,7 +19,7 @@ border: 2px solid #AB0000 !important;
 }
 
 #main_player .play-song-link {
-border: 2px solid #AB0000;
+border: 2px solid #AB0000 !important;
 }
 
 #main-room .right_section {
@@ -27,11 +27,11 @@ border: 2px solid #AB0000;
 }
 
 .main-page-container #main-section #player-controller {
- border-top: 2px solid #AB0000;
+ border-top: 2px solid #AB0000 !important;
 }
 
 .main-page-container #main-section #player-controller .right {
- border-left: 2px solid #AB0000;
+ border-left: 2px solid #AB0000 !important;
 }
 
 #main_player .player_header span.active {
