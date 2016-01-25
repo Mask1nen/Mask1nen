@@ -5,6 +5,10 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
+#player-controller .left ul li.infoContainer .infoContainerInner .progressBg {
+	height: 7px !important;
+}
+
 /** Upvote/Downvote **/
 ul.avatar-list li.updub {
 	background: transparent
@@ -93,6 +97,7 @@ ul.avatar-list li.downdub {
 .main-page-container #main-section #player-controller {
   border-radius: 0px !important;
   background: rgba(0,0,0,0.8) !important; 
+  border-top: 2px solid #AB0000;
 }
 #header-global .header-right-navigation .user-messages .message-counter {
     background: #1a1a1a;
@@ -141,6 +146,7 @@ transparent 100%) !important;
   background-color: rgba(0,0,0,0.8);
   margin-top:2px;
   border: 2px solid #AB0000 !important;
+  border-right: none;
 }
 
 /* Player buttons fixes */
@@ -188,7 +194,7 @@ transparent 100%) !important;
 /* Chat fixes */
 #main-room .right_section {
   background-color: rgba(0,0,0,0.8);
-  border-left: 0px solid black !important;
+  border-left: 2px solid #AB0000 !important;
   margin-top: 2px !important;
 }
 
