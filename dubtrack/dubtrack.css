@@ -37,7 +37,6 @@ ul.avatar-list li.downdub {
 
 #main-room .left_section #main_player .play-song-link {
     color: white;
-    border: 2px solid #AB0000;
 }
 
 #player-controller .right ul li .dubup.voted span {
@@ -97,7 +96,6 @@ ul.avatar-list li.downdub {
 .main-page-container #main-section #player-controller {
   border-radius: 0px !important;
   background: rgba(0,0,0,0.8) !important; 
-  border-top: 2px solid #AB0000;
 }
 #header-global .header-right-navigation .user-messages .message-counter {
     background: #1a1a1a;
@@ -135,7 +133,6 @@ transparent 100%) !important;
 #header-global {
   border-radius: 0px !important;
   background-color: rgba(0,0,0,0.8); 
-  border: 2px solid #AB0000;
   border-top: none;
   border-left: none;
   border-right: none;
@@ -145,7 +142,6 @@ transparent 100%) !important;
 #main_player {
   background-color: rgba(0,0,0,0.8);
   margin-top:2px;
-  border: 2px solid #AB0000 !important;
   border-right: none !important;
 }
 
@@ -157,7 +153,6 @@ transparent 100%) !important;
   border-bottom-left-radius: 5px;
   width: 65px;
   margin-top: 3px; 
-  border: 2px solid #AB0000;
 }
 
 #main_player .player_header {
@@ -171,7 +166,6 @@ transparent 100%) !important;
   border-bottom-left-radius: 20px;
   width: 65px;
   margin-top: 3px; 
-  border: 2px solid #AB0000;
 }
 
 #main_player .play-song-link .queue-info {
@@ -181,7 +175,6 @@ transparent 100%) !important;
 #main_player .play-song-link {
   background: rgba(0,0,0,0.8) !important;
   border-radius:0px; 
-  border: 2px solid #AB0000;
 }
 
 #main-room .left_section #main_player .play-song-link {
@@ -194,7 +187,6 @@ transparent 100%) !important;
 /* Chat fixes */
 #main-room .right_section {
   background-color: rgba(0,0,0,0.8);
-  border-left: 2px solid #AB0000 !important;
   margin-top: 2px !important;
 }
 
