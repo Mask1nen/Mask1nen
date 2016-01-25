@@ -10,10 +10,8 @@
 }
 
 #chat .chat_tools {
-border-bottom: none;
+border-bottom: none !important;
 }
-
-
 
 /** Upvote/Downvote **/
 ul.avatar-list li.updub {
