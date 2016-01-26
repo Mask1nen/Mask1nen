@@ -5,6 +5,15 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
+#user_popover .actions a {
+    color: #1a1a1a;
+    outline: 1px solid #1a1a1a !important;
+}
+
+#user_popover .global-actions a {
+	color: #1A1A1A !important;
+}
+
 #player-controller .left ul li.infoContainer .infoContainerInner .progressBg {
 	height: 7px !important;
 }
