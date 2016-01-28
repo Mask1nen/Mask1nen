@@ -9,6 +9,10 @@
     color: #1a1a1a;
 }
 
+#user_popover .usercontent header .dubs {
+	color: #1a1a1a;
+}
+
 #user_popover .actions a {
     color: #1a1a1a;
     outline: 1px solid #1a1a1a !important;
