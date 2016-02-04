@@ -43,7 +43,7 @@ ul.avatar-list li.downdub {
 }
 
 #player-controller .right ul li .add-to-playlist-button.grabbed span {
-    color: #1a1a1a;
+    color: #1a1a1a !important;
 }
 
 #header-global .header-right-navigation .user-info .user-image {
