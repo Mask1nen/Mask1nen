@@ -5,6 +5,11 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
+#player-controller .right ul li .add-to-playlist-button.grabbed .icon-heart:before, #player-controller .right ul li .add-to-playlist-button.grabbed span, #player-controller .right ul li .add-to-playlist-button.voted .icon-heart:before, #player-controller .right ul li .add-to-playlist-button.voted span, #player-controller .right ul li .dubdown.grabbed .icon-heart:before, #player-controller .right ul li .dubdown.grabbed span, #player-controller .right ul li .dubdown.voted .icon-heart:before, #player-controller .right ul li .dubdown.voted span {
+	color: #1a1a1a !important;
+}
+}
+
 #user_popover .usercontent header h3 {
     color: #1a1a1a;
 }
