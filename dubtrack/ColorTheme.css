@@ -307,7 +307,7 @@ span.usernameContainer, .followers-counter,
 	color: #AB0000;
 }
 #profileMainSection .profileView .infoProfile .edit-btn, #profileMainSection .profileView .infoProfile .follow-btn {
-	color: deeppink;
+	color: #AB0000;
 	border: 2px solid #AB0000;
 }
 #profileMainSection .profileView .header .pictureContainer .updatePictureGif {
