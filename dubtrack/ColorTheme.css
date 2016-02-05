@@ -6,6 +6,14 @@
     Change every color code the current code has to the one you want and import the code into your css.
 */
 
+#main_player .play-song-link-container .play-song-link-browser {
+border: 2px solid #AB0000;
+padding: 14px !important;
+
+#main_player .play-song-link-container .play-song-link-browser i {
+color: #AB0000;
+}
+
 #chat .pusher-chat-widget-input {
 border-top: 1px solid #AB0000 !important;
 }
