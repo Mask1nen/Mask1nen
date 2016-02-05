@@ -8,7 +8,9 @@
 
 #main_player .play-song-link-container .play-song-link-browser {
 border: 2px solid #AB0000;
-padding: 14px !important;
+padding: 13px !important;
+padding-left: 16px !important;
+padding-right: 16px !important;
 }
 
 #main_player .play-song-link-container .play-song-link-browser i {
