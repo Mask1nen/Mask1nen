@@ -331,7 +331,7 @@ span.usernameContainer, .followers-counter,
 	opacity: .95;
 }
 #user_popover .global-actions a, #user_popover .usercontent header .dubs, #user_popover .usercontent header h3 {
-	color: #006000;
+	color: #1a1a1a;
 }
 #user_popover .global-actions a {
 	outline: 1px solid #006000;
