@@ -77,7 +77,7 @@ border: 2px solid #00ACE6 !important;
 }
 /* Fix message counter color */
 #header-global .header-right-navigation .user-messages .message-counter {
-    color: #00ACE6;
+    color: #1A1A1A;
 }
 .main-page-container #main-section #player-controller {
   color: #00ACE6;
