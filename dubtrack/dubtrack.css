@@ -175,7 +175,7 @@ transparent 100%) !important;
 
 /* Player buttons fixes */
 #main_player .player_header span {
-  background: black !important;
+  background: rgba(0,0,0,0.8)!important;
   opacity: 1;
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
@@ -188,7 +188,7 @@ transparent 100%) !important;
 }
 
 #main_player .player_header span.active {
-  background: black !important;
+  background: rgba(0,0,0,0.8) !important;
   opacity: 1;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
