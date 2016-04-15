@@ -4,6 +4,10 @@
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/chatright.css"); /* Chat completly to the right */
 @import url("https://rawgit.com/Netox005/Dubtrack/master/css/videosmall.css"); /* Small video */
 
+#main_player .player_header #topbanner {
+	height: 0px !important;
+}
+
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .history-item {
 	background: rgba(0,0,0,0.5);
 }
