@@ -189,6 +189,7 @@ transparent 100%) !important;
 
 #main_player .player_header {
  left: -65px !important;
+ height: 81.25% !important;
 }
 
 #main_player .player_header span.active {
