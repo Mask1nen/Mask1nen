@@ -4,7 +4,11 @@
 @import url("https://github.netux.ml/css/chatright.css"); /* Chat completly to the right */
 @import url("https://github.netux.ml/css/videosmall.css"); /* Small video */
  
- /* Courtesy of Ikyaros */
+#chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .text p {
+ background-image: url(http://i.imgur.com/BYqL5ar.png) !important;
+}
+
+/* Courtesy of Ikyaros */
 .resident-dj span.user-role-icon {
     background-image: url(https://dl.dropbox.com/s/h1fwg5zit795xm2/disk2.png)!important;
     height: 14.39px!important;
