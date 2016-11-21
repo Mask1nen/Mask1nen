@@ -4,6 +4,27 @@
 @import url("https://github.netux.ml/css/chatright.css"); /* Chat completly to the right */
 @import url("https://github.netux.ml/css/videosmall.css"); /* Small video */
  
+ /* Courtesy of Ikyaros */
+.resident-dj span.user-role-icon {
+    background-image: url(https://dl.dropbox.com/s/h1fwg5zit795xm2/disk2.png)!important;
+    height: 16px!important;
+    width: 16px!important;
+    -webkit-animation: rotation 2s infinite linear;
+    background-repeat: no-repeat;
+    background-size: 16px 16px!important;
+        display:inline-block!important;
+}
+ 
+@-webkit-keyframes rotation {
+    from {
+        -webkit-transform: rotate(0deg);
+    }
+ 
+    to {
+        -webkit-transform: rotate(360deg);
+    };
+}
+
 #main_player .player_header #topbanner {
     height: 0px !important;
 }
