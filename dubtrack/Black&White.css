@@ -4,6 +4,10 @@
 @import url("https://github.netux.ml/css/chatright.css"); /* Chat completly to the right */
 @import url("https://github.netux.ml/css/videosmall.css"); /* Small video */
 
+#chat .chat-options .chat-option-buttons span.active i {
+ color: white !important; 
+}
+
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .playlist-item .description .preview {
  color: white !important;
 }
