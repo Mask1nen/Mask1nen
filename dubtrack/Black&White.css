@@ -1,8 +1,12 @@
 /* Imports */
 @import url("https://nightbloo.github.io/dubtrack/dubtrack.css");
 @import url("https://hebgbs.github.io/rainbowstuff.css"); /* Rainbow sliders */
-@import url("https://github.netux.ml/css/chatright.css"); /* Chat completly to the right */
+@import url("https://github.netux.ml/css/chatright.css"); /* Chat completly to the right *
 @import url("https://github.netux.ml/css/videosmall.css"); /* Small video */
+
+#user_popover {
+ background: #1a1a1a !important;
+}
 
 .for_content_ul {
  background: #1a1a1a !important;
@@ -70,8 +74,8 @@ a:hover {
     background-color: white !important;
 }
 
-#user_popover .global-actions a {
- background-color: rgb(225,225,255) !important;
+#user_popover .global-actions a:hover {
+ background-color: rgb(225,225,225) !important;
 }
  
 #player-controller .left ul li.infoContainer .infoContainerInner .progressBg {
@@ -316,7 +320,7 @@ transparent 100%) !important;
  
 /* Fix popover */
 .backstretch #user_popover {
-  left:1167px !important;
+  left:60% !important;
 }
  
 #chat .chat-container .chat-messages .chat-main li .stream-item-content .image_row {
