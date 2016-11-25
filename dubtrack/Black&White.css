@@ -105,7 +105,15 @@ ul.avatar-list li.downdub {
 #player-controller .right ul li .dubdown .icon-downvote {
  color: white;
 }
- 
+
+#player-controller .right ul li .add-to-playlist-button.grabbed {
+ background: white !important;
+}
+
+.icon-heart:before {
+ color: white !important;
+}
+
 /* Queue redesign */
  
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .search-item {
