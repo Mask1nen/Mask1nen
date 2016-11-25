@@ -200,6 +200,8 @@ transparent 100%) !important;
   opacity: 1;
   width: 65px;
   margin-top: 3px;
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
 }
  
 #main_player .player_header {
@@ -212,6 +214,8 @@ transparent 100%) !important;
   opacity: 1;
   width: 65px;
   margin-top: 3px;
+  border-top-left-radius: 0px !important;
+  border-bottom-left-radius: 0px !important;
 }
  
 #main_player .play-song-link .queue-info {
