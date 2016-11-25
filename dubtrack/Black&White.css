@@ -119,6 +119,19 @@ ul.avatar-list li.downdub {
 
 /* Queue redesign */
 
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item .description .playedby {
+ color: white !important;
+}
+
+#browser .browser-content .browser-content-main .nano .loading {
+ background: white !important;
+  color: #1a1a1a !important;
+}
+
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item .place {
+ color: white !important;
+}
+
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item .actions {
  background-color: none !important;
 }
@@ -318,8 +331,9 @@ transparent 100%) !important;
  
 /* Fix playlist selector color */
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
- background: white !important;
- color: #1a1a1a !important;
+ background: #1a1a1a !important;
+ color: white !important;
+ border: 2px solid white;
 }
  
 /* Fix playlist number color */
