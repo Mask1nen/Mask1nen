@@ -4,12 +4,10 @@
 @import url("https://github.netux.ml/css/chatright.css"); /* Chat completly to the right */
 @import url("https://github.netux.ml/css/videosmall.css"); /* Small video */
  
-/* #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .username .user-role-icon {
- background-image: url(http://i.imgur.com/BYqL5ar.png) !important;
+#main_player .play-song-link-container .play-song-link-browser i {
+ color: white !important;
 }
-#chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .username {
- color: #C0C0C0 !important;
-}
+
 /* Courtesy of Ikyaros */
 .resident-dj span.user-role-icon {
     background-image: url(https://dl.dropbox.com/s/h1fwg5zit795xm2/disk2.png)!important;
@@ -69,7 +67,6 @@ ul.avatar-list li.downdub {
     padding-left: 5px;
     padding-right: 5px;
 }
- 
 #player-controller .right ul li .add-to-playlist-button.grabbed span {
     color: #1a1a1a !important;
 }
@@ -91,8 +88,17 @@ ul.avatar-list li.downdub {
 #player-controller .right ul li .dubup.voted span {
     color: #1a1a1a;
 }
+
+#player-controller .right ul li .dubup.voted {
+ background: white !important;
+}
+
 #player-controller .right ul li .dubdown.voted span {
     color: #1a1a1a;
+}
+
+#player-controller .right ul li .dubdown.voted {
+ background: white !important;
 }
  
 /* Queue redesign */
@@ -230,6 +236,7 @@ transparent 100%) !important;
 #main-room .left_section #main_player .play-song-link {
   padding: 11px 1.5rem;
 }
+
 #main-room .left_section {
   border-bottom-left-radius: 0;
 }
