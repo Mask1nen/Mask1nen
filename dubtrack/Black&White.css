@@ -119,7 +119,11 @@ ul.avatar-list li.downdub {
 
 /* Queue redesign */
 
-#browser .browser-content .browser-content-main .nano .content-videos .playlist_info .right span:hover {
+#browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item .actions {'
+ background-color: none !important;
+}
+
+#browser .browser-content .browser-content-main .nano .content-videos .playlist_info .right a:hover {
  color: white !important;
 }
 
