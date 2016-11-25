@@ -19,7 +19,7 @@ a:hover {
 }
 
 #chat .chat-options .chat-option-buttons span:hover, #chat .chat-options .chat-option-buttons span.active:hover {
- color: white;
+ color: white !important;
 }
 
 #main_player .play-song-link-container .play-song-link-browser i {
@@ -57,7 +57,7 @@ a:hover {
 }
  
 #user_popover .usercontent header .dubs {
-    color: #1a1a1a;
+    color: white;
 }
  
 #user_popover .actions a {
@@ -67,6 +67,11 @@ a:hover {
  
 #user_popover .global-actions a {
     color: #1A1A1A !important;
+    background-color: white !important;
+}
+
+#user_popover .global-actions a {
+ background-color: rgb(225,225,255) !important;
 }
  
 #player-controller .left ul li.infoContainer .infoContainerInner .progressBg {
