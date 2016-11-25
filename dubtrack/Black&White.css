@@ -13,7 +13,7 @@
  color: white !important;
 }
 
-onErr .container .control .confirm {
+.onErr .container .control .confirm {
  color: #1a1a1a !important;
  background: white !important;
 }
