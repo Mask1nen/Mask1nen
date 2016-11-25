@@ -4,7 +4,7 @@
 @import url("https://github.netux.ml/css/chatright.css"); /* Chat completly to the right */
 @import url("https://github.netux.ml/css/videosmall.css"); /* Small video */
 
-#user_popover, #user_popover .global-actions {
+#user_popover, #user_popover .global-actions, #user_popover .actions {
  background: #1a1a1a !important;
 }
 
@@ -75,7 +75,7 @@ a:hover {
 }
 
 #user_popover .global-actions a:hover {
- background-color: rgb(225,225,225) !important;
+ background-color: rgb(200,200,200) !important;
 }
  
 #player-controller .left ul li.infoContainer .infoContainerInner .progressBg {
