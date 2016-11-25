@@ -243,7 +243,6 @@ transparent 100%) !important;
 /* Chat fixes */
 #main-room .right_section {
   background-color: rgba(0,0,0,0.8);
-  margin-top: 2px !important;
 }
  
 /* Fix popover */
