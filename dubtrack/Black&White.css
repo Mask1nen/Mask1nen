@@ -220,8 +220,6 @@ transparent 100%) !important;
 #main_player .player_header span.active {
   background: white !important;
   opacity: 1;
-  border-top-left-radius: 20px;
-  border-bottom-left-radius: 20px;
   width: 65px;
   margin-top: 3px;
 }
