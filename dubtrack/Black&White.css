@@ -8,6 +8,10 @@ a:hover {
  color: white !important;
 }
 
+#chat .chat-options .chat-option-buttons span:hover, #chat .chat-options .chat-option-buttons span.active:hover {
+ color: white;
+}
+
 #main_player .play-song-link-container .play-song-link-browser i {
  color: white !important;
 }
