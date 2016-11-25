@@ -4,6 +4,15 @@
 @import url("https://github.netux.ml/css/chatright.css"); /* Chat completly to the right */
 @import url("https://github.netux.ml/css/videosmall.css"); /* Small video */
 
+.for_content_ul {
+ background: #1a1a1a !important;
+ color: white !important;
+}
+
+onErr .container .control .confirm {
+ color: #1a1a1a !important;
+ background: white !important;
+
 a:hover {
  color: white !important;
 }
