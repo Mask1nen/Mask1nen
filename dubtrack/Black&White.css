@@ -4,6 +4,17 @@
 @import url("https://github.netux.ml/css/chatright.css"); /* Chat completly to the right */
 @import url("https://github.netux.ml/css/videosmall.css"); /* Small video */
 
+.header-center-logo a img {
+ display: none;
+}
+
+.header-center-logo a {
+ background: url(http://i.imgur.com/x9naBF1.png) !important;
+  width: 3rem !important;
+  height: 3rem !important;
+  margin-top: 5px !important;
+}
+
 #chat .chat-options .chat-option-buttons span.active i {
  color: white !important; 
 }
