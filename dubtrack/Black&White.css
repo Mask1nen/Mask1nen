@@ -119,6 +119,14 @@ ul.avatar-list li.downdub {
 
 /* Queue redesign */
 
+#browser .browser-content .browser-content-main .nano .content-videos .playlist_info .right span:hover {
+ color: white !important;
+}
+
+#browser .browser-content .browser-content-main .sidebar .import-playlist span, #browser .browser-content .browser-content-main .sidebar .create-playlist .create-playlist-display span {
+ color: white !important;
+}
+
 #browser .browser-content .browser-content-main .nano .content-videos #results_video_api .queue-item .description .preview {
  color: white !important;
 }
