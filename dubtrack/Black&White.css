@@ -7,6 +7,9 @@
 #main_player .play-song-link-container .play-song-link-browser i {
  color: white !important;
 }
+#browser .browser-content .browser-content-header .close-browser {
+ background: white !important;
+}
 
 /* Courtesy of Ikyaros */
 .resident-dj span.user-role-icon {
@@ -299,15 +302,13 @@ transparent 100%) !important;
  
 /* Fix playlist selector color */
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
- color: white !important;
+ background: white !important;
+ color: #1a1a1a !important;
 }
  
 /* Fix playlist number color */
 #browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li span {
- color: white !important;
-}
-#browser .browser-content .browser-content-main .sidebar #playlists-scroll .playlist-style li.selected {
- color: #1a1a1a !important;
+ color: white !important; 
 }
  
 /* System message recolor */
