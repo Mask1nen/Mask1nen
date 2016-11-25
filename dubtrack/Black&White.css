@@ -10,7 +10,7 @@
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .username {
  color: #C0C0C0 !important;
 }
-/* Courtesy of Ikyaros */
+/* Courtesy of Ikyaros
 .resident-dj span.user-role-icon {
     background-image: url(https://dl.dropbox.com/s/h1fwg5zit795xm2/disk2.png)!important;
     height: 14.39px!important;
@@ -20,7 +20,7 @@
     background-size: 14.39px 14.39px!important;
         display:inline-block!important;
 }
- 
+ */
 @-webkit-keyframes rotation {
     from {
         -webkit-transform: rotate(0deg);
