@@ -86,7 +86,7 @@ ul.avatar-list li.downdub {
 }
  
 #player-controller .right ul li .dubup.voted span {
-    color: #1a1a1a;
+    color: #1a1a1a !important;
 }
 
 #player-controller .right ul li .dubup.voted {
