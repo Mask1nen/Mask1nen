@@ -200,7 +200,6 @@ transparent 100%) !important;
 /* Player fixes */
 #main_player {
   background-color: rgba(0,0,0,0.8);
-  margin-top:2px;
   border-right: none !important;
   width:20% !important;
 }
