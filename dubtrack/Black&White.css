@@ -92,13 +92,18 @@ ul.avatar-list li.downdub {
 #player-controller .right ul li .dubup.voted {
  background: white !important;
 }
+#player-controller .right ul li .dubup .icon-upvote {
+ color: white !important;
+}
 
 #player-controller .right ul li .dubdown.voted span {
     color: #1a1a1a;
 }
-
 #player-controller .right ul li .dubdown.voted {
  background: white !important;
+}
+#player-controller .right ul li .dubdown .icon-downvote {
+ color: white;
 }
  
 /* Queue redesign */
@@ -300,6 +305,7 @@ transparent 100%) !important;
 /* System message recolor */
 .right_section #chat .chat-main li[class*='system'] {
   text-align: center;
+  color: white !important;
 }
  
 /* Loading, promote/demote and song skips in chat not so similar to user /me's */
