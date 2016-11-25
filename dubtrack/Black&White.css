@@ -12,6 +12,7 @@
 onErr .container .control .confirm {
  color: #1a1a1a !important;
  background: white !important;
+}
 
 a:hover {
  color: white !important;
