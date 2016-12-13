@@ -8,8 +8,7 @@
  /* Frosolf */
 LI.user-56698980850a4b130025abcc .username,
 #avatar-list LI.user-56698980850a4b130025abcc .username{
-  animation: 6.3s Frosolf !important;
-   animation-iteration-count: infinite !Important;
+  color: #99F5FF !important;
 }
  /* Snaky */
 LI.user-55ffe2e0196f170300cc1037  .username,
@@ -21,4 +20,5 @@ LI.user-55ffe2e0196f170300cc1037  .username,
 LI.user-5607ef7e424a6203007d4fbe  .username,
 #avatar-list LI.user-5607ef7e424a6203007d4fbe  .username,
 #avatar-list LI.user-5607ef7e424a6203007d4fbe  .username:after{
+ color:rgb(218, 0, 0) !important;
 }
