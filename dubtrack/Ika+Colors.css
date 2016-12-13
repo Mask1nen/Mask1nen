@@ -1,24 +1,14 @@
 @import url("https://dl.dropboxusercontent.com/s/o1lwdygyghz5msq/AngeloidIkaros_Legacy_CSS.css");
 
-/*
+/* Maskinen */
 #chat .chat-container ul.chat-main li.user-5607ef7e424a6203007d4fbe .activity-row .username {
- color: #99F5FF !important;
-} */
-
+  color:rgb(218, 0, 0) !important;
+}
  /* Frosolf */
-LI.user-56698980850a4b130025abcc .username,
-#avatar-list LI.user-56698980850a4b130025abcc .username{
-  color: #99F5FF !important;
+#chat .chat-container ul.chat-main li.user-56698980850a4b130025abcc .activity-row .username {
+ color: #99F5FF !important;
 }
  /* Snaky */
-LI.user-55ffe2e0196f170300cc1037  .username,
-#avatar-list LI.user-55ffe2e0196f170300cc1037  .username,
-#avatar-list LI.user-55ffe2e0196f170300cc1037  .username:after{
-    color:rgb(42, 125, 25) !important;
-}
-/* Maskinen */
-LI.user-5607ef7e424a6203007d4fbe  .username,
-#avatar-list LI.user-5607ef7e424a6203007d4fbe  .username,
-#avatar-list LI.user-5607ef7e424a6203007d4fbe  .username:after{
- color:rgb(218, 0, 0) !important;
+#chat .chat-container ul.chat-main li.user-55ffe2e0196f170300cc1037 .activity-row .username {
+  color:rgb(42, 125, 25) !important;
 }
